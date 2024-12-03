@@ -1,0 +1,9 @@
+[project]
+name = "opennet-hw-q3"
+version = "0.1.0"
+description = "question 3: api creation"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.0",
+]
